@@ -1,9 +1,9 @@
 # Database course
 Exercises from the database course.
 # Language:
-[English](https://github.com/l0w0l-Y/database-course/edit/main/README.md#eng)
+[English](https://github.com/l0w0l-Y/database-course#eng)
 
-[Русский](https://github.com/l0w0l-Y/database-course/edit/main/README.md#ru)
+[Русский](https://github.com/l0w0l-Y/database-course#ru)
 
 ## ENG
 Contains all exercises for the course of database.
