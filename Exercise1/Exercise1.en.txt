@@ -1,0 +1,26 @@
+1. Create a database "Filmography".
+2. Create tables within this database: Films, Actors, Directors.
+
+Movie (movies): Name(name), Description(description), Year(year), Genres (genres), Country (country), Budget(budget)
+Actors (actors): Surname (surname), First name (name), Date of birth (birthday), Country of birth (motherland), Number of films (number_of_movies)
+Directors (producer): Surname (surname), First name (name), Date of birth (birthday), Country of birth (motherland)
+
+For films, define Name and Year as primary key
+For actors, specify a new column that will be populated with the sequence
+Do the same for directors.
+
+Implement check constraints:
+on the year field in the film table, that it must be greater than 1900 and less than the current + 10 years.
+budget field should not be < 10000
+the number of movies field must be greater than 5.
+
+Surname First Name and Date of Birth must be unique for the actor
+
+For the Director table, the Country of birth field should default to USA.
+
+Fill tables with test values, 6 records each
+ 
+3. Change the movie table:
+a) remove primary keys
+b) add an identifier column (id) with a hung sequence (sequence)
+c) think about how to use Alter queries to put this sequence in order. Write requests.

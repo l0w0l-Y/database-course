@@ -1,0 +1,12 @@
+1. Select all directors whose best film was made in 2000.
+2. Display all directors who have made more than 5 films.
+3. Select movie IDs with more than 10 actors
+4. Add a rating field to the movies table. Get the top 10 highest rated movies made in the USA
+5. Select all the different horror films starring actors from England
+6. Select actors who starred with directors from England from 2007 to 2010
+7. Estimate the average budgets of films released before 2000, from 2000 to 2005, from 2005 to 2010, from 2010 to the present.
+8. Get the total budget of films that were shot by directors whose last name ends in "V" or "N".
+9. Get maximum movie budgets by year
+10. Get all films made before 2010 that have a budget less than any film made after 2010.
+11. Get directors who have made at least one film whose budget is greater than the minimum film budget for 2015 and less than the maximum budget for 2016.
+12. Get a list of directors who made at least one film before 2000, or who made exactly 10 films in total.

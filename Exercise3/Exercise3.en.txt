@@ -1,0 +1,8 @@
+1. Select all directors whose best film was made in 2000.
+2. Display all directors who have made more than 5 films.
+3. Select the identifiers of films where more than 10 actors were filmed.
+4. Add a rating field to the movies table. Get the top 10 highest rated movies made in the USA.
+5. Select all the different horror films that have actors from England.
+6. Select all genres of films for which there are more than 5 films in the database.
+7. Get the second ten films by duration.
+8. Display movie genres. which were filmed by a director from England or from France
